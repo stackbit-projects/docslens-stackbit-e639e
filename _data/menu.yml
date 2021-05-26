@@ -23,13 +23,6 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
   - title: contact
     entries:
       - title: e-mail: kevin@drkz.com
